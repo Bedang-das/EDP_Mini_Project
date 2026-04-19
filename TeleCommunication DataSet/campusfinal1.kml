@@ -1,0 +1,6503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Network Cell Info app: KML Logs</name>
+<open>1</open>
+<description>KML Logs created using Network Cell Info app by M2Catalyst.com</description>
+<Style id="bts_4g_plus">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/blu-stars.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bts_4g">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/blu-diamond.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bts_3p5g">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/purple-diamond.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bts_3g">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/red-diamond.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bts_2p5g">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bts_2g">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/pink-diamond.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bts_qg">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/wht-diamond.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="icon_4gplus">
+<IconStyle>
+<Icon>
+<href>http://labs.google.com/ridefinder/images/mm_20_black.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="icon_4g">
+<IconStyle>
+<Icon>
+<href>http://labs.google.com/ridefinder/images/mm_20_blue.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="icon_3p5g">
+<IconStyle>
+<Icon>
+<href>http://labs.google.com/ridefinder/images/mm_20_purple.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="icon_3g">
+<IconStyle>
+<Icon>
+<href>http://labs.google.com/ridefinder/images/mm_20_red.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="icon_2p5g">
+<IconStyle>
+<Icon>
+<href>http://labs.google.com/ridefinder/images/mm_20_green.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="icon_2g">
+<IconStyle>
+<Icon>
+<href>http://labs.google.com/ridefinder/images/mm_20_yellow.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="icon_qg">
+<IconStyle>
+<Icon>
+<href>http://labs.google.com/ridefinder/images/mm_20_gray.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Meas 2026-02-22 14:37:27</name>
+<description>Measurements taken by Network Cell Info app</description>
+<Placemark>
+<name>LTE, -109dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -109dBm / -14dB / -4.0dB</p>
+<p>Timestamp: 2026-02-22 14:19:25</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72788870,18.54065230</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -107dBm / -15dB / -5.0dB</p>
+<p>Timestamp: 2026-02-22 14:19:30</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72783530,18.54065430</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -104dBm / -12dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:19:34</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72778450,18.54068260</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -104dBm / -17dB / -5.0dB</p>
+<p>Timestamp: 2026-02-22 14:19:39</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72773310,18.54070290</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -104dBm / -15dB / -6.0dB</p>
+<p>Timestamp: 2026-02-22 14:19:44</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72768970,18.54074480</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -100dBm / -12dB / -2.0dB</p>
+<p>Timestamp: 2026-02-22 14:19:48</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72763830,18.54078560</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -92dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -92dBm / -11dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:19:53</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72757350,18.54083110</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -92dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -92dBm / -11dB / 3.0dB</p>
+<p>Timestamp: 2026-02-22 14:19:59</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72752840,18.54089470</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -92dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -92dBm / -9dB / 4.0dB</p>
+<p>Timestamp: 2026-02-22 14:20:03</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72748000,18.54093630</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -92dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -92dBm / -8dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:20:08</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72743730,18.54097060</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -98dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -98dBm / -9dB / 3.0dB</p>
+<p>Timestamp: 2026-02-22 14:20:13</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72736120,18.54096900</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -100dBm / -10dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:20:17</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72730920,18.54096030</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -96dBm / -11dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:20:22</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72728430,18.54096460</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -101dBm / -11dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:20:27</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72730550,18.54096160</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -97dBm / -11dB / 6.0dB</p>
+<p>Timestamp: 2026-02-22 14:20:32</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72731720,18.54096070</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -101dBm / -11dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:20:37</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72732750,18.54095390</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -99dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -99dBm / -12dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:20:42</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72736640,18.54095360</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -100dBm / -9dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:20:47</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72741340,18.54098820</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -104dBm / -10dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:20:51</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72746070,18.54102590</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -96dBm / -7dB / 1.0dB</p>
+<p>Timestamp: 2026-02-22 14:20:56</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72752720,18.54104410</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -95dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -95dBm / -7dB / 12.0dB</p>
+<p>Timestamp: 2026-02-22 14:21:01</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72752640,18.54109730</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -97dBm / -7dB / 9.0dB</p>
+<p>Timestamp: 2026-02-22 14:21:05</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72750860,18.54114750</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -97dBm / -8dB / 10.0dB</p>
+<p>Timestamp: 2026-02-22 14:21:10</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72750300,18.54118910</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -101dBm / -8dB / 9.0dB</p>
+<p>Timestamp: 2026-02-22 14:21:15</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72754120,18.54119560</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -103dBm / -9dB / 8.0dB</p>
+<p>Timestamp: 2026-02-22 14:21:20</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72757840,18.54116130</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -99dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -99dBm / -7dB / 10.0dB</p>
+<p>Timestamp: 2026-02-22 14:21:24</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72755250,18.54110050</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -102dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -102dBm / -11dB / 4.0dB</p>
+<p>Timestamp: 2026-02-22 14:21:29</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72759070,18.54106000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -100dBm / -9dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:21:34</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72762040,18.54100350</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -105dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -105dBm / -9dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:21:38</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72766210,18.54096230</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -110dBm / -11dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:21:43</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72771610,18.54093350</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -110dBm / -11dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:21:48</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72778540,18.54092510</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -112dBm / -11dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:21:53</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72784060,18.54091120</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (55719/63771473/162)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771473/162</p>
+<p>eNB/LCID/NID1/NID2: 249107/81/54/0</p>
+<p>RSRP/RSRQ/RSSNR: -101dBm / -10dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:21:58</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72788450,18.54093290</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -97dBm / -9dB / 5.0dB</p>
+<p>Timestamp: 2026-02-22 14:22:02</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72788520,18.54096780</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -118dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -118dBm / -11dB / 3.0dB</p>
+<p>Timestamp: 2026-02-22 14:22:07</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72789340,18.54101010</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -99dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -99dBm / -13dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:22:12</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72791710,18.54104290</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -105dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -105dBm / -12dB / -6.0dB</p>
+<p>Timestamp: 2026-02-22 14:22:16</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72793590,18.54107950</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -107dBm / -12dB / -6.0dB</p>
+<p>Timestamp: 2026-02-22 14:22:21</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72797290,18.54111940</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -110dBm / -12dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:22:26</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72800860,18.54115190</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -120dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -120dBm / -15dB / -5.0dB</p>
+<p>Timestamp: 2026-02-22 14:22:30</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72806140,18.54115730</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -120dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -120dBm / -14dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:22:35</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72811370,18.54115280</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -121dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -121dBm / -14dB / -6.0dB</p>
+<p>Timestamp: 2026-02-22 14:22:40</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72817160,18.54114820</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -121dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -121dBm / -12dB / -3.0dB</p>
+<p>Timestamp: 2026-02-22 14:22:45</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72821600,18.54117140</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -121dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -121dBm / -12dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:22:50</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72823980,18.54117910</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -127dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -127dBm / -19dB / -11.0dB</p>
+<p>Timestamp: 2026-02-22 14:22:54</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72830050,18.54115500</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -119dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -119dBm / -13dB / -3.0dB</p>
+<p>Timestamp: 2026-02-22 14:22:59</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72835890,18.54112790</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -138dBm (55719/63771443/162)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771443/162</p>
+<p>eNB/LCID/NID1/NID2: 249107/51/54/0</p>
+<p>RSRP/RSRQ/RSSNR: -138dBm / -20dB / -16.0dB</p>
+<p>Timestamp: 2026-02-22 14:23:04</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72841220,18.54110270</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -135dBm (55719/63771443/162)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771443/162</p>
+<p>eNB/LCID/NID1/NID2: 249107/51/54/0</p>
+<p>RSRP/RSRQ/RSSNR: -135dBm / -20dB / -13.0dB</p>
+<p>Timestamp: 2026-02-22 14:23:08</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72845860,18.54109680</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -133dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -133dBm / -23dB / -2.0dB</p>
+<p>Timestamp: 2026-02-22 14:23:13</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72848710,18.54114540</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -114dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -114dBm / -9dB / -2.0dB</p>
+<p>Timestamp: 2026-02-22 14:23:18</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72850370,18.54123410</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -110dBm / -10dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:23:23</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72851440,18.54128110</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -115dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -115dBm / -11dB / 1.0dB</p>
+<p>Timestamp: 2026-02-22 14:23:29</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72851420,18.54133350</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -110dBm / -12dB / 7.0dB</p>
+<p>Timestamp: 2026-02-22 14:23:34</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72845200,18.54128490</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -104dBm / -7dB / 10.0dB</p>
+<p>Timestamp: 2026-02-22 14:23:38</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72839590,18.54129480</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -100dBm / -7dB / 5.0dB</p>
+<p>Timestamp: 2026-02-22 14:23:43</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72835760,18.54130000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -101dBm / -7dB / 7.0dB</p>
+<p>Timestamp: 2026-02-22 14:23:48</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72826450,18.54128780</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -103dBm / -9dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:23:53</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72819540,18.54136900</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -111dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -111dBm / -11dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:23:58</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72817720,18.54145540</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -109dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -109dBm / -10dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:24:02</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72816970,18.54148210</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -112dBm / -12dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:24:07</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72818990,18.54148920</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -111dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -111dBm / -10dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:24:12</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72819460,18.54150080</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -107dBm / -10dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:24:17</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72818900,18.54151570</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -106dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -106dBm / -10dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:24:22</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72822150,18.54153670</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -108dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -108dBm / -12dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:24:27</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72826070,18.54151580</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -112dBm / -11dB / 3.0dB</p>
+<p>Timestamp: 2026-02-22 14:24:31</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72831060,18.54145580</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -110dBm / -9dB / 3.0dB</p>
+<p>Timestamp: 2026-02-22 14:24:36</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72835990,18.54138730</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -104dBm / -13dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:24:41</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72832760,18.54131850</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -106dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -106dBm / -10dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:24:46</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72833840,18.54127570</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -111dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -111dBm / -9dB / 5.0dB</p>
+<p>Timestamp: 2026-02-22 14:24:51</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72837340,18.54126320</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -112dBm / -10dB / 3.0dB</p>
+<p>Timestamp: 2026-02-22 14:24:55</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72835410,18.54128890</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -109dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -109dBm / -9dB / 1.0dB</p>
+<p>Timestamp: 2026-02-22 14:25:01</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72836950,18.54128420</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -109dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -109dBm / -6dB / 5.0dB</p>
+<p>Timestamp: 2026-02-22 14:25:05</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72841500,18.54132080</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -102dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -102dBm / -6dB / 12.0dB</p>
+<p>Timestamp: 2026-02-22 14:25:10</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72824670,18.54149320</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -107dBm / -7dB / 12.0dB</p>
+<p>Timestamp: 2026-02-22 14:25:15</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72808320,18.54160570</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -105dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -105dBm / -8dB / 13.0dB</p>
+<p>Timestamp: 2026-02-22 14:25:19</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72802130,18.54154830</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -108dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -108dBm / -7dB / 10.0dB</p>
+<p>Timestamp: 2026-02-22 14:25:24</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72797010,18.54148000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -93dBm / -6dB / 15.0dB</p>
+<p>Timestamp: 2026-02-22 14:25:30</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72794260,18.54145380</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -103dBm / -6dB / 13.0dB</p>
+<p>Timestamp: 2026-02-22 14:25:34</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72793680,18.54142510</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -100dBm / -7dB / 11.0dB</p>
+<p>Timestamp: 2026-02-22 14:25:40</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72792400,18.54143360</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -109dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -109dBm / -10dB / 9.0dB</p>
+<p>Timestamp: 2026-02-22 14:25:45</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72796050,18.54149200</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -103dBm / -7dB / 11.0dB</p>
+<p>Timestamp: 2026-02-22 14:25:50</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72798210,18.54153950</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -104dBm / -6dB / 10.0dB</p>
+<p>Timestamp: 2026-02-22 14:25:55</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72800630,18.54158930</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -107dBm / -7dB / 10.0dB</p>
+<p>Timestamp: 2026-02-22 14:26:00</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72804300,18.54160990</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -101dBm / -6dB / 1.0dB</p>
+<p>Timestamp: 2026-02-22 14:26:05</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72807150,18.54166200</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -103dBm / -8dB / 13.0dB</p>
+<p>Timestamp: 2026-02-22 14:26:09</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72810260,18.54169350</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -98dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -98dBm / -6dB / 17.0dB</p>
+<p>Timestamp: 2026-02-22 14:26:14</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72812110,18.54174020</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -102dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -102dBm / -7dB / 1.0dB</p>
+<p>Timestamp: 2026-02-22 14:26:19</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72814410,18.54178200</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -96dBm / -5dB / 16.0dB</p>
+<p>Timestamp: 2026-02-22 14:26:23</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72818310,18.54181330</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -92dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -92dBm / -5dB / 15.0dB</p>
+<p>Timestamp: 2026-02-22 14:26:28</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72819120,18.54185970</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -94dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -94dBm / -7dB / 17.0dB</p>
+<p>Timestamp: 2026-02-22 14:26:33</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72816780,18.54187480</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -76dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -76dBm / -9dB / 1.0dB</p>
+<p>Timestamp: 2026-02-22 14:26:40</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72817630,18.54189190</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -102dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -102dBm / -5dB / 16.0dB</p>
+<p>Timestamp: 2026-02-22 14:26:45</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72819270,18.54186930</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -106dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -106dBm / -7dB / 15.0dB</p>
+<p>Timestamp: 2026-02-22 14:26:50</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72823770,18.54182050</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -103dBm / -6dB / 13.0dB</p>
+<p>Timestamp: 2026-02-22 14:26:56</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72821820,18.54174670</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -103dBm / -6dB / 14.0dB</p>
+<p>Timestamp: 2026-02-22 14:27:00</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72822000,18.54172250</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -107dBm / -6dB / 14.0dB</p>
+<p>Timestamp: 2026-02-22 14:27:06</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72823420,18.54171320</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -114dBm (55719/63771955/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771955/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/51/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -114dBm / -6dB / 13.0dB</p>
+<p>Timestamp: 2026-02-22 14:27:11</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72824540,18.54170220</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -116dBm (55719/63771905/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771905/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/1/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -116dBm / -7dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:27:15</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72830390,18.54169440</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (55719/63771905/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771905/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/1/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -103dBm / -7dB / 7.0dB</p>
+<p>Timestamp: 2026-02-22 14:27:20</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72836090,18.54166600</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -108dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -108dBm / -7dB / 9.0dB</p>
+<p>Timestamp: 2026-02-22 14:27:26</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72837410,18.54168100</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -103dBm / -10dB / 13.0dB</p>
+<p>Timestamp: 2026-02-22 14:27:34</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72836160,18.54167360</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -104dBm / -6dB / 1.0dB</p>
+<p>Timestamp: 2026-02-22 14:27:42</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72836180,18.54164970</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -101dBm / -6dB / 1.0dB</p>
+<p>Timestamp: 2026-02-22 14:27:47</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72835770,18.54162560</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -97dBm / -5dB / 13.0dB</p>
+<p>Timestamp: 2026-02-22 14:27:52</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72836020,18.54163510</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -100dBm / -6dB / 11.0dB</p>
+<p>Timestamp: 2026-02-22 14:27:57</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72838410,18.54163450</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -96dBm / -5dB / 11.0dB</p>
+<p>Timestamp: 2026-02-22 14:28:02</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72844450,18.54162260</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -94dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -94dBm / -5dB / 11.0dB</p>
+<p>Timestamp: 2026-02-22 14:28:07</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72848770,18.54158680</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -104dBm / -6dB / 9.0dB</p>
+<p>Timestamp: 2026-02-22 14:28:12</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72853080,18.54155030</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -110dBm / -7dB / 6.0dB</p>
+<p>Timestamp: 2026-02-22 14:28:16</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72856480,18.54151390</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -112dBm / -10dB / 4.0dB</p>
+<p>Timestamp: 2026-02-22 14:28:21</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72856180,18.54145830</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -117dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -117dBm / -14dB / -5.0dB</p>
+<p>Timestamp: 2026-02-22 14:28:26</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72853440,18.54139260</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -115dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -115dBm / -10dB / -2.0dB</p>
+<p>Timestamp: 2026-02-22 14:28:30</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72850960,18.54131980</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -110dBm / -8dB / 7.0dB</p>
+<p>Timestamp: 2026-02-22 14:28:35</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72848850,18.54126460</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -107dBm / -9dB / 3.0dB</p>
+<p>Timestamp: 2026-02-22 14:28:40</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72846770,18.54120600</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -103dBm / -8dB / 3.0dB</p>
+<p>Timestamp: 2026-02-22 14:28:45</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72846710,18.54117310</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -108dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -108dBm / -8dB / 4.0dB</p>
+<p>Timestamp: 2026-02-22 14:28:49</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72845820,18.54112850</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -103dBm / -8dB / 9.0dB</p>
+<p>Timestamp: 2026-02-22 14:28:54</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72842640,18.54110560</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -97dBm / -5dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:28:59</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72836710,18.54110240</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -119dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -119dBm / -10dB / 4.0dB</p>
+<p>Timestamp: 2026-02-22 14:29:04</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72831760,18.54111780</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -122dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -122dBm / -14dB / -3.0dB</p>
+<p>Timestamp: 2026-02-22 14:29:08</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72825350,18.54113530</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -117dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -117dBm / -13dB / -5.0dB</p>
+<p>Timestamp: 2026-02-22 14:29:13</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72819700,18.54115540</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -119dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -119dBm / -12dB / 1.0dB</p>
+<p>Timestamp: 2026-02-22 14:29:18</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72812670,18.54115900</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -119dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -119dBm / -12dB / 1.0dB</p>
+<p>Timestamp: 2026-02-22 14:29:22</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72807320,18.54117960</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -124dBm (55719/63771936/79)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771936/79</p>
+<p>eNB/LCID/NID1/NID2: 249109/32/26/1</p>
+<p>RSRP/RSRQ/RSSNR: -124dBm / -17dB / -10.0dB</p>
+<p>Timestamp: 2026-02-22 14:29:27</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72801920,18.54119090</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -96dBm / -10dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:29:31</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72796670,18.54120310</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -103dBm / -12dB / -5.0dB</p>
+<p>Timestamp: 2026-02-22 14:29:36</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72791030,18.54119460</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -98dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -98dBm / -8dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:29:47</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72789270,18.54122540</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -113dBm (55719/63771935/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771935/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/31/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -113dBm / -12dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:29:52</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72790280,18.54122570</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -115dBm (55719/14135811/98)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135811/98</p>
+<p>eNB/LCID/NID1/NID2: 55218/3/32/2</p>
+<p>RSRP/RSRQ/RSSNR: -115dBm / -16dB / -7.0dB</p>
+<p>Timestamp: 2026-02-22 14:29:57</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72793410,18.54122100</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -121dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -121dBm / -17dB / -8.0dB</p>
+<p>Timestamp: 2026-02-22 14:30:01</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72800290,18.54119650</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -119dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -119dBm / -13dB / -2.0dB</p>
+<p>Timestamp: 2026-02-22 14:30:06</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72801520,18.54122160</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -112dBm / -9dB / 3.0dB</p>
+<p>Timestamp: 2026-02-22 14:30:11</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72802020,18.54128140</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -119dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -119dBm / -11dB / 1.0dB</p>
+<p>Timestamp: 2026-02-22 14:30:16</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72804540,18.54127980</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -121dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -121dBm / -14dB / -3.0dB</p>
+<p>Timestamp: 2026-02-22 14:30:20</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72804300,18.54121740</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -117dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -117dBm / -11dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:30:25</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72802360,18.54124210</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -106dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -106dBm / -10dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:30:29</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72802280,18.54128750</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -118dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -118dBm / -11dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:30:34</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72804310,18.54126460</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -116dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -116dBm / -11dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:30:39</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72802670,18.54120920</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -107dBm / -10dB / 6.0dB</p>
+<p>Timestamp: 2026-02-22 14:30:44</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72801420,18.54116830</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -111dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -111dBm / -11dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:30:49</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72797350,18.54119670</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -104dBm / -13dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:30:54</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72793270,18.54122820</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -110dBm / -16dB / -7.0dB</p>
+<p>Timestamp: 2026-02-22 14:31:05</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72787620,18.54124680</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -107dBm / -14dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:31:13</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72791030,18.54124190</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -107dBm / -13dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:31:18</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72792530,18.54124130</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -112dBm / -15dB / -7.0dB</p>
+<p>Timestamp: 2026-02-22 14:31:26</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72791050,18.54123830</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -110dBm / -15dB / -7.0dB</p>
+<p>Timestamp: 2026-02-22 14:31:32</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72791680,18.54123780</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -107dBm / -15dB / -6.0dB</p>
+<p>Timestamp: 2026-02-22 14:31:37</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72791410,18.54123990</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -123dBm (55719/14135809/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135809/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/1/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -123dBm / -14dB / -6.0dB</p>
+<p>Timestamp: 2026-02-22 14:31:45</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72790860,18.54122600</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -126dBm (55719/63771956/79)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771956/79</p>
+<p>eNB/LCID/NID1/NID2: 249109/52/26/1</p>
+<p>RSRP/RSRQ/RSSNR: -126dBm / -17dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:31:53</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72791060,18.54122200</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -113dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -113dBm / -12dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:32:01</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72791290,18.54122690</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -111dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -111dBm / -14dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:32:09</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72786880,18.54123650</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -108dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -108dBm / -16dB / -6.0dB</p>
+<p>Timestamp: 2026-02-22 14:32:17</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72787450,18.54124230</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -112dBm / -15dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:32:25</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72785120,18.54123470</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -110dBm / -14dB / -1.0dB</p>
+<p>Timestamp: 2026-02-22 14:32:33</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72787110,18.54124030</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -105dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -105dBm / -12dB / -2.0dB</p>
+<p>Timestamp: 2026-02-22 14:32:39</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72786230,18.54123460</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -103dBm / -10dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:32:43</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72785700,18.54124930</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -97dBm / -9dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:32:48</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72780550,18.54128140</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -100dBm / -13dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:32:57</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72779750,18.54132020</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -93dBm / -13dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:33:01</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72780070,18.54130960</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -100dBm / -11dB / 3.0dB</p>
+<p>Timestamp: 2026-02-22 14:33:07</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72781810,18.54133820</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -101dBm / -8dB / 7.0dB</p>
+<p>Timestamp: 2026-02-22 14:33:12</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72781630,18.54134150</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -99dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -99dBm / -11dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:33:20</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72780760,18.54133430</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -93dBm / -10dB / 6.0dB</p>
+<p>Timestamp: 2026-02-22 14:33:26</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72781140,18.54133400</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -93dBm / -10dB / 4.0dB</p>
+<p>Timestamp: 2026-02-22 14:33:31</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72783500,18.54137660</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -97dBm / -13dB / 3.0dB</p>
+<p>Timestamp: 2026-02-22 14:33:35</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72786770,18.54143720</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -98dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -98dBm / -10dB / 5.0dB</p>
+<p>Timestamp: 2026-02-22 14:33:40</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72792320,18.54150370</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -93dBm / -12dB / 9.0dB</p>
+<p>Timestamp: 2026-02-22 14:33:45</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72796840,18.54151350</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -93dBm / -11dB / 1.0dB</p>
+<p>Timestamp: 2026-02-22 14:33:52</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72798940,18.54150140</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -96dBm / -9dB / 11.0dB</p>
+<p>Timestamp: 2026-02-22 14:34:00</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72799620,18.54150790</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -91dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -91dBm / -10dB / 8.0dB</p>
+<p>Timestamp: 2026-02-22 14:34:05</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72799820,18.54151260</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -96dBm / -6dB / 7.0dB</p>
+<p>Timestamp: 2026-02-22 14:34:11</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72801890,18.54154950</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -79dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -79dBm / -7dB / 8.0dB</p>
+<p>Timestamp: 2026-02-22 14:34:16</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72803680,18.54159800</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -93dBm / -7dB / 8.0dB</p>
+<p>Timestamp: 2026-02-22 14:34:20</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72805760,18.54164140</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -94dBm (55719/63771985/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771985/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/81/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -94dBm / -10dB / 10.0dB</p>
+<p>Timestamp: 2026-02-22 14:34:31</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72806800,18.54166270</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -98dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -98dBm / -10dB / 1.0dB</p>
+<p>Timestamp: 2026-02-22 14:34:39</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72806690,18.54163420</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -88dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -88dBm / -8dB / 7.0dB</p>
+<p>Timestamp: 2026-02-22 14:34:47</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72808220,18.54162670</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -93dBm / -7dB / 8.0dB</p>
+<p>Timestamp: 2026-02-22 14:34:52</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72803800,18.54166260</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -101dBm / -8dB / 8.0dB</p>
+<p>Timestamp: 2026-02-22 14:34:57</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72802640,18.54171660</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -96dBm / -7dB / 7.0dB</p>
+<p>Timestamp: 2026-02-22 14:35:02</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72800350,18.54173840</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -101dBm / -8dB / 8.0dB</p>
+<p>Timestamp: 2026-02-22 14:35:10</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72800640,18.54170660</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -93dBm / -7dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:35:14</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72804270,18.54171000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -106dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -106dBm / -8dB / 10.0dB</p>
+<p>Timestamp: 2026-02-22 14:35:20</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72808590,18.54172400</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -103dBm / -8dB / 6.0dB</p>
+<p>Timestamp: 2026-02-22 14:35:26</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72813130,18.54169230</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -97dBm / -8dB / 8.0dB</p>
+<p>Timestamp: 2026-02-22 14:35:30</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72821770,18.54163400</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -95dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -95dBm / -8dB / 8.0dB</p>
+<p>Timestamp: 2026-02-22 14:35:35</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72827510,18.54160000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -91dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -91dBm / -8dB / 6.0dB</p>
+<p>Timestamp: 2026-02-22 14:35:41</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72833000,18.54156660</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -93dBm / -7dB / 7.0dB</p>
+<p>Timestamp: 2026-02-22 14:35:46</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72838610,18.54155600</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -98dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -98dBm / -8dB / 7.0dB</p>
+<p>Timestamp: 2026-02-22 14:35:50</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72843420,18.54153420</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (55719/63771915/75)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771915/75</p>
+<p>eNB/LCID/NID1/NID2: 249109/11/25/0</p>
+<p>RSRP/RSRQ/RSSNR: -101dBm / -9dB / 2.0dB</p>
+<p>Timestamp: 2026-02-22 14:35:55</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72848890,18.54151740</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -97dBm / -10dB / 7.0dB</p>
+<p>Timestamp: 2026-02-22 14:36:00</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72851240,18.54146080</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -98dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -98dBm / -6dB / 5.0dB</p>
+<p>Timestamp: 2026-02-22 14:36:05</p>
+]]>
+</description>
+<styleUrl>#icon_4g</styleUrl>
+<Point>
+<coordinates>73.72850900,18.54139470</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -99dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -99dBm / -7dB / 3.0dB</p>
+<p>Timestamp: 2026-02-22 14:36:10</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72851550,18.54133380</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -101dBm / -9dB / 6.0dB</p>
+<p>Timestamp: 2026-02-22 14:36:15</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72852250,18.54133770</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -99dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -99dBm / -7dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:36:23</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72851860,18.54135120</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -99dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -99dBm / -6dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:36:28</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72851650,18.54135320</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -91dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -91dBm / -8dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:36:33</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72851390,18.54132710</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -107dBm / -9dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:36:38</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72850580,18.54131660</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (55719/14135819/90)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/14135819/90</p>
+<p>eNB/LCID/NID1/NID2: 55218/11/30/0</p>
+<p>RSRP/RSRQ/RSSNR: -107dBm / -9dB / 0.0dB</p>
+<p>Timestamp: 2026-02-22 14:36:43</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72848140,18.54125600</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -91dBm (55719/63771405/170)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771405/170</p>
+<p>eNB/LCID/NID1/NID2: 249107/13/56/2</p>
+<p>RSRP/RSRQ/RSSNR: -91dBm / -7dB / 1.0dB</p>
+<p>Timestamp: 2026-02-22 14:36:55</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72849510,18.54121140</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LTE, -90dBm (55719/63771405/170)</name>
+<description>
+<![CDATA[
+<h1>Connection: LTE (4G+)</h1>
+<p>MCCMNC: 40422</p>
+<p>TAC/ECI/PCI: 55719/63771405/170</p>
+<p>eNB/LCID/NID1/NID2: 249107/13/56/2</p>
+<p>RSRP/RSRQ/RSSNR: -90dBm / -7dB / 13.0dB</p>
+<p>Timestamp: 2026-02-22 14:37:03</p>
+]]>
+</description>
+<styleUrl>#icon_4gplus</styleUrl>
+<Point>
+<coordinates>73.72846840,18.54122390</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Paths 2026-02-22 14:37:27</name>
+<description>Paths between Measurements taken by Network Cell Info app</description>
+<Placemark>
+<name>LTE, -107dBm (3), 63771935</name>
+<LineString>
+<coordinates>
+73.72788870,18.54065230
+73.72783530,18.54065430
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (3), 63771935</name>
+<LineString>
+<coordinates>
+73.72783530,18.54065430
+73.72778450,18.54068260
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (3), 63771935</name>
+<LineString>
+<coordinates>
+73.72778450,18.54068260
+73.72773310,18.54070290
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (3), 63771935</name>
+<LineString>
+<coordinates>
+73.72773310,18.54070290
+73.72768970,18.54074480
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (3), 63771935</name>
+<LineString>
+<coordinates>
+73.72768970,18.54074480
+73.72763830,18.54078560
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -92dBm (4), 63771935</name>
+<LineString>
+<coordinates>
+73.72763830,18.54078560
+73.72757350,18.54083110
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -92dBm (4), 63771935</name>
+<LineString>
+<coordinates>
+73.72757350,18.54083110
+73.72752840,18.54089470
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -92dBm (4), 63771935</name>
+<LineString>
+<coordinates>
+73.72752840,18.54089470
+73.72748000,18.54093630
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -92dBm (4), 63771935</name>
+<LineString>
+<coordinates>
+73.72748000,18.54093630
+73.72743730,18.54097060
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -98dBm (4), 63771935</name>
+<LineString>
+<coordinates>
+73.72743730,18.54097060
+73.72736120,18.54096900
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (3), 63771935</name>
+<LineString>
+<coordinates>
+73.72736120,18.54096900
+73.72730920,18.54096030
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (4), 63771935</name>
+<LineString>
+<coordinates>
+73.72730920,18.54096030
+73.72728430,18.54096460
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (3), 63771935</name>
+<LineString>
+<coordinates>
+73.72728430,18.54096460
+73.72730550,18.54096160
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (4), 63771935</name>
+<LineString>
+<coordinates>
+73.72730550,18.54096160
+73.72731720,18.54096070
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (2), 63771935</name>
+<LineString>
+<coordinates>
+73.72731720,18.54096070
+73.72732750,18.54095390
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -99dBm (2), 63771935</name>
+<LineString>
+<coordinates>
+73.72732750,18.54095390
+73.72736640,18.54095360
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (2), 63771955</name>
+<LineString>
+<coordinates>
+73.72736640,18.54095360
+73.72741340,18.54098820
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (2), 63771955</name>
+<LineString>
+<coordinates>
+73.72741340,18.54098820
+73.72746070,18.54102590
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (2), 63771955</name>
+<LineString>
+<coordinates>
+73.72746070,18.54102590
+73.72752720,18.54104410
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -95dBm (4), 63771955</name>
+<LineString>
+<coordinates>
+73.72752720,18.54104410
+73.72752640,18.54109730
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (4), 63771955</name>
+<LineString>
+<coordinates>
+73.72752640,18.54109730
+73.72750860,18.54114750
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (4), 63771955</name>
+<LineString>
+<coordinates>
+73.72750860,18.54114750
+73.72750300,18.54118910
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72750300,18.54118910
+73.72754120,18.54119560
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72754120,18.54119560
+73.72757840,18.54116130
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -99dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72757840,18.54116130
+73.72755250,18.54110050
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -102dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72755250,18.54110050
+73.72759070,18.54106000
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (2), 63771955</name>
+<LineString>
+<coordinates>
+73.72759070,18.54106000
+73.72762040,18.54100350
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -105dBm (2), 63771955</name>
+<LineString>
+<coordinates>
+73.72762040,18.54100350
+73.72766210,18.54096230
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (2), 63771955</name>
+<LineString>
+<coordinates>
+73.72766210,18.54096230
+73.72771610,18.54093350
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (1), 63771955</name>
+<LineString>
+<coordinates>
+73.72771610,18.54093350
+73.72778540,18.54092510
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (2), 63771955</name>
+<LineString>
+<coordinates>
+73.72778540,18.54092510
+73.72784060,18.54091120
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (3), 63771473</name>
+<LineString>
+<coordinates>
+73.72784060,18.54091120
+73.72788450,18.54093290
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (4), 63771985</name>
+<LineString>
+<coordinates>
+73.72788450,18.54093290
+73.72788520,18.54096780
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -118dBm (2), 63771955</name>
+<LineString>
+<coordinates>
+73.72788520,18.54096780
+73.72789340,18.54101010
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -99dBm (3), 14135809</name>
+<LineString>
+<coordinates>
+73.72789340,18.54101010
+73.72791710,18.54104290
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -105dBm (3), 14135809</name>
+<LineString>
+<coordinates>
+73.72791710,18.54104290
+73.72793590,18.54107950
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (3), 14135809</name>
+<LineString>
+<coordinates>
+73.72793590,18.54107950
+73.72797290,18.54111940
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (2), 14135809</name>
+<LineString>
+<coordinates>
+73.72797290,18.54111940
+73.72800860,18.54115190
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -120dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72800860,18.54115190
+73.72806140,18.54115730
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -120dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72806140,18.54115730
+73.72811370,18.54115280
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -121dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72811370,18.54115280
+73.72817160,18.54114820
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -121dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72817160,18.54114820
+73.72821600,18.54117140
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -121dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72821600,18.54117140
+73.72823980,18.54117910
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -127dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72823980,18.54117910
+73.72830050,18.54115500
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -119dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72830050,18.54115500
+73.72835890,18.54112790
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -138dBm (0), 63771443</name>
+<LineString>
+<coordinates>
+73.72835890,18.54112790
+73.72841220,18.54110270
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f888888</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -135dBm (0), 63771443</name>
+<LineString>
+<coordinates>
+73.72841220,18.54110270
+73.72845860,18.54109680
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f888888</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -133dBm (2), 63771935</name>
+<LineString>
+<coordinates>
+73.72845860,18.54109680
+73.72848710,18.54114540
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -114dBm (2), 63771935</name>
+<LineString>
+<coordinates>
+73.72848710,18.54114540
+73.72850370,18.54123410
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72850370,18.54123410
+73.72851440,18.54128110
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -115dBm (2), 14135809</name>
+<LineString>
+<coordinates>
+73.72851440,18.54128110
+73.72851420,18.54133350
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (2), 14135809</name>
+<LineString>
+<coordinates>
+73.72851420,18.54133350
+73.72845200,18.54128490
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (3), 14135809</name>
+<LineString>
+<coordinates>
+73.72845200,18.54128490
+73.72839590,18.54129480
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (3), 14135819</name>
+<LineString>
+<coordinates>
+73.72839590,18.54129480
+73.72835760,18.54130000
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (3), 14135819</name>
+<LineString>
+<coordinates>
+73.72835760,18.54130000
+73.72826450,18.54128780
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (2), 14135819</name>
+<LineString>
+<coordinates>
+73.72826450,18.54128780
+73.72819540,18.54136900
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -111dBm (1), 14135819</name>
+<LineString>
+<coordinates>
+73.72819540,18.54136900
+73.72817720,18.54145540
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -109dBm (1), 14135819</name>
+<LineString>
+<coordinates>
+73.72817720,18.54145540
+73.72816970,18.54148210
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (1), 14135819</name>
+<LineString>
+<coordinates>
+73.72816970,18.54148210
+73.72818990,18.54148920
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -111dBm (2), 14135819</name>
+<LineString>
+<coordinates>
+73.72818990,18.54148920
+73.72819460,18.54150080
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (1), 14135819</name>
+<LineString>
+<coordinates>
+73.72819460,18.54150080
+73.72818900,18.54151570
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -106dBm (1), 14135819</name>
+<LineString>
+<coordinates>
+73.72818900,18.54151570
+73.72822150,18.54153670
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -108dBm (1), 14135819</name>
+<LineString>
+<coordinates>
+73.72822150,18.54153670
+73.72826070,18.54151580
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (2), 14135819</name>
+<LineString>
+<coordinates>
+73.72826070,18.54151580
+73.72831060,18.54145580
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (2), 14135819</name>
+<LineString>
+<coordinates>
+73.72831060,18.54145580
+73.72835990,18.54138730
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (3), 14135819</name>
+<LineString>
+<coordinates>
+73.72835990,18.54138730
+73.72832760,18.54131850
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -106dBm (3), 14135819</name>
+<LineString>
+<coordinates>
+73.72832760,18.54131850
+73.72833840,18.54127570
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -111dBm (2), 14135819</name>
+<LineString>
+<coordinates>
+73.72833840,18.54127570
+73.72837340,18.54126320
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (2), 14135819</name>
+<LineString>
+<coordinates>
+73.72837340,18.54126320
+73.72835410,18.54128890
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -109dBm (2), 14135819</name>
+<LineString>
+<coordinates>
+73.72835410,18.54128890
+73.72836950,18.54128420
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -109dBm (2), 63771955</name>
+<LineString>
+<coordinates>
+73.72836950,18.54128420
+73.72841500,18.54132080
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -102dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72841500,18.54132080
+73.72824670,18.54149320
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72824670,18.54149320
+73.72808320,18.54160570
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -105dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72808320,18.54160570
+73.72802130,18.54154830
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -108dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72802130,18.54154830
+73.72797010,18.54148000
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (4), 63771955</name>
+<LineString>
+<coordinates>
+73.72797010,18.54148000
+73.72794260,18.54145380
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72794260,18.54145380
+73.72793680,18.54142510
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72793680,18.54142510
+73.72792400,18.54143360
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -109dBm (2), 63771955</name>
+<LineString>
+<coordinates>
+73.72792400,18.54143360
+73.72796050,18.54149200
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72796050,18.54149200
+73.72798210,18.54153950
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72798210,18.54153950
+73.72800630,18.54158930
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72800630,18.54158930
+73.72804300,18.54160990
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (2), 63771955</name>
+<LineString>
+<coordinates>
+73.72804300,18.54160990
+73.72807150,18.54166200
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72807150,18.54166200
+73.72810260,18.54169350
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -98dBm (4), 63771955</name>
+<LineString>
+<coordinates>
+73.72810260,18.54169350
+73.72812110,18.54174020
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -102dBm (2), 63771955</name>
+<LineString>
+<coordinates>
+73.72812110,18.54174020
+73.72814410,18.54178200
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (4), 63771955</name>
+<LineString>
+<coordinates>
+73.72814410,18.54178200
+73.72818310,18.54181330
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -92dBm (4), 63771955</name>
+<LineString>
+<coordinates>
+73.72818310,18.54181330
+73.72819120,18.54185970
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -94dBm (4), 63771955</name>
+<LineString>
+<coordinates>
+73.72819120,18.54185970
+73.72816780,18.54187480
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -76dBm (4), 63771955</name>
+<LineString>
+<coordinates>
+73.72816780,18.54187480
+73.72817630,18.54189190
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -102dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72817630,18.54189190
+73.72819270,18.54186930
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -106dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72819270,18.54186930
+73.72823770,18.54182050
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72823770,18.54182050
+73.72821820,18.54174670
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72821820,18.54174670
+73.72822000,18.54172250
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (3), 63771955</name>
+<LineString>
+<coordinates>
+73.72822000,18.54172250
+73.72823420,18.54171320
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -114dBm (2), 63771955</name>
+<LineString>
+<coordinates>
+73.72823420,18.54171320
+73.72824540,18.54170220
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -116dBm (3), 63771905</name>
+<LineString>
+<coordinates>
+73.72824540,18.54170220
+73.72830390,18.54169440
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (3), 63771905</name>
+<LineString>
+<coordinates>
+73.72830390,18.54169440
+73.72836090,18.54166600
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -108dBm (3), 63771915</name>
+<LineString>
+<coordinates>
+73.72836090,18.54166600
+73.72837410,18.54168100
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (3), 63771915</name>
+<LineString>
+<coordinates>
+73.72837410,18.54168100
+73.72836160,18.54167360
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (2), 63771915</name>
+<LineString>
+<coordinates>
+73.72836160,18.54167360
+73.72836180,18.54164970
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (2), 63771915</name>
+<LineString>
+<coordinates>
+73.72836180,18.54164970
+73.72835770,18.54162560
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (4), 63771915</name>
+<LineString>
+<coordinates>
+73.72835770,18.54162560
+73.72836020,18.54163510
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (3), 63771915</name>
+<LineString>
+<coordinates>
+73.72836020,18.54163510
+73.72838410,18.54163450
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (4), 63771915</name>
+<LineString>
+<coordinates>
+73.72838410,18.54163450
+73.72844450,18.54162260
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -94dBm (4), 63771915</name>
+<LineString>
+<coordinates>
+73.72844450,18.54162260
+73.72848770,18.54158680
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (3), 63771915</name>
+<LineString>
+<coordinates>
+73.72848770,18.54158680
+73.72853080,18.54155030
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (2), 63771915</name>
+<LineString>
+<coordinates>
+73.72853080,18.54155030
+73.72856480,18.54151390
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (2), 63771915</name>
+<LineString>
+<coordinates>
+73.72856480,18.54151390
+73.72856180,18.54145830
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -117dBm (2), 63771915</name>
+<LineString>
+<coordinates>
+73.72856180,18.54145830
+73.72853440,18.54139260
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -115dBm (2), 14135809</name>
+<LineString>
+<coordinates>
+73.72853440,18.54139260
+73.72850960,18.54131980
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (2), 14135809</name>
+<LineString>
+<coordinates>
+73.72850960,18.54131980
+73.72848850,18.54126460
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (3), 14135809</name>
+<LineString>
+<coordinates>
+73.72848850,18.54126460
+73.72846770,18.54120600
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (3), 14135809</name>
+<LineString>
+<coordinates>
+73.72846770,18.54120600
+73.72846710,18.54117310
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -108dBm (3), 14135809</name>
+<LineString>
+<coordinates>
+73.72846710,18.54117310
+73.72845820,18.54112850
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (3), 14135809</name>
+<LineString>
+<coordinates>
+73.72845820,18.54112850
+73.72842640,18.54110560
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (2), 14135809</name>
+<LineString>
+<coordinates>
+73.72842640,18.54110560
+73.72836710,18.54110240
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -119dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72836710,18.54110240
+73.72831760,18.54111780
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -122dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72831760,18.54111780
+73.72825350,18.54113530
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -117dBm (2), 14135809</name>
+<LineString>
+<coordinates>
+73.72825350,18.54113530
+73.72819700,18.54115540
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -119dBm (1), 63771935</name>
+<LineString>
+<coordinates>
+73.72819700,18.54115540
+73.72812670,18.54115900
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -119dBm (1), 63771985</name>
+<LineString>
+<coordinates>
+73.72812670,18.54115900
+73.72807320,18.54117960
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -124dBm (1), 63771936</name>
+<LineString>
+<coordinates>
+73.72807320,18.54117960
+73.72801920,18.54119090
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (4), 14135809</name>
+<LineString>
+<coordinates>
+73.72801920,18.54119090
+73.72796670,18.54120310
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (3), 14135809</name>
+<LineString>
+<coordinates>
+73.72796670,18.54120310
+73.72791030,18.54119460
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -98dBm (2), 63771935</name>
+<LineString>
+<coordinates>
+73.72791030,18.54119460
+73.72789270,18.54122540
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -113dBm (2), 63771935</name>
+<LineString>
+<coordinates>
+73.72789270,18.54122540
+73.72790280,18.54122570
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -115dBm (2), 14135811</name>
+<LineString>
+<coordinates>
+73.72790280,18.54122570
+73.72793410,18.54122100
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -121dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72793410,18.54122100
+73.72800290,18.54119650
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -119dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72800290,18.54119650
+73.72801520,18.54122160
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (2), 14135809</name>
+<LineString>
+<coordinates>
+73.72801520,18.54122160
+73.72802020,18.54128140
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -119dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72802020,18.54128140
+73.72804540,18.54127980
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -121dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72804540,18.54127980
+73.72804300,18.54121740
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -117dBm (2), 14135809</name>
+<LineString>
+<coordinates>
+73.72804300,18.54121740
+73.72802360,18.54124210
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -106dBm (3), 14135809</name>
+<LineString>
+<coordinates>
+73.72802360,18.54124210
+73.72802280,18.54128750
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -118dBm (2), 14135809</name>
+<LineString>
+<coordinates>
+73.72802280,18.54128750
+73.72804310,18.54126460
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -116dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72804310,18.54126460
+73.72802670,18.54120920
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (3), 14135809</name>
+<LineString>
+<coordinates>
+73.72802670,18.54120920
+73.72801420,18.54116830
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -111dBm (2), 14135809</name>
+<LineString>
+<coordinates>
+73.72801420,18.54116830
+73.72797350,18.54119670
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -104dBm (2), 14135809</name>
+<LineString>
+<coordinates>
+73.72797350,18.54119670
+73.72793270,18.54122820
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (2), 14135809</name>
+<LineString>
+<coordinates>
+73.72793270,18.54122820
+73.72787620,18.54124680
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72787620,18.54124680
+73.72791030,18.54124190
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72791030,18.54124190
+73.72792530,18.54124130
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (2), 14135809</name>
+<LineString>
+<coordinates>
+73.72792530,18.54124130
+73.72791050,18.54123830
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (2), 14135809</name>
+<LineString>
+<coordinates>
+73.72791050,18.54123830
+73.72791680,18.54123780
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (3), 14135809</name>
+<LineString>
+<coordinates>
+73.72791680,18.54123780
+73.72791410,18.54123990
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -123dBm (1), 14135809</name>
+<LineString>
+<coordinates>
+73.72791410,18.54123990
+73.72790860,18.54122600
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -126dBm (2), 63771956</name>
+<LineString>
+<coordinates>
+73.72790860,18.54122600
+73.72791060,18.54122200
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -113dBm (1), 63771985</name>
+<LineString>
+<coordinates>
+73.72791060,18.54122200
+73.72791290,18.54122690
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -111dBm (1), 63771985</name>
+<LineString>
+<coordinates>
+73.72791290,18.54122690
+73.72786880,18.54123650
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -108dBm (3), 63771985</name>
+<LineString>
+<coordinates>
+73.72786880,18.54123650
+73.72787450,18.54124230
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -112dBm (1), 63771985</name>
+<LineString>
+<coordinates>
+73.72787450,18.54124230
+73.72785120,18.54123470
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -110dBm (1), 63771985</name>
+<LineString>
+<coordinates>
+73.72785120,18.54123470
+73.72787110,18.54124030
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -105dBm (3), 63771985</name>
+<LineString>
+<coordinates>
+73.72787110,18.54124030
+73.72786230,18.54123460
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (2), 63771985</name>
+<LineString>
+<coordinates>
+73.72786230,18.54123460
+73.72785700,18.54124930
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (4), 63771985</name>
+<LineString>
+<coordinates>
+73.72785700,18.54124930
+73.72780550,18.54128140
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (3), 63771985</name>
+<LineString>
+<coordinates>
+73.72780550,18.54128140
+73.72779750,18.54132020
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (4), 63771985</name>
+<LineString>
+<coordinates>
+73.72779750,18.54132020
+73.72780070,18.54130960
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -100dBm (3), 63771985</name>
+<LineString>
+<coordinates>
+73.72780070,18.54130960
+73.72781810,18.54133820
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (3), 63771985</name>
+<LineString>
+<coordinates>
+73.72781810,18.54133820
+73.72781630,18.54134150
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -99dBm (2), 63771985</name>
+<LineString>
+<coordinates>
+73.72781630,18.54134150
+73.72780760,18.54133430
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (4), 63771985</name>
+<LineString>
+<coordinates>
+73.72780760,18.54133430
+73.72781140,18.54133400
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (4), 63771985</name>
+<LineString>
+<coordinates>
+73.72781140,18.54133400
+73.72783500,18.54137660
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (4), 63771985</name>
+<LineString>
+<coordinates>
+73.72783500,18.54137660
+73.72786770,18.54143720
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -98dBm (4), 63771985</name>
+<LineString>
+<coordinates>
+73.72786770,18.54143720
+73.72792320,18.54150370
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (4), 63771985</name>
+<LineString>
+<coordinates>
+73.72792320,18.54150370
+73.72796840,18.54151350
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (3), 63771985</name>
+<LineString>
+<coordinates>
+73.72796840,18.54151350
+73.72798940,18.54150140
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (4), 63771985</name>
+<LineString>
+<coordinates>
+73.72798940,18.54150140
+73.72799620,18.54150790
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -91dBm (4), 63771985</name>
+<LineString>
+<coordinates>
+73.72799620,18.54150790
+73.72799820,18.54151260
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (4), 63771985</name>
+<LineString>
+<coordinates>
+73.72799820,18.54151260
+73.72801890,18.54154950
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -79dBm (4), 63771985</name>
+<LineString>
+<coordinates>
+73.72801890,18.54154950
+73.72803680,18.54159800
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (4), 63771985</name>
+<LineString>
+<coordinates>
+73.72803680,18.54159800
+73.72805760,18.54164140
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -94dBm (4), 63771985</name>
+<LineString>
+<coordinates>
+73.72805760,18.54164140
+73.72806800,18.54166270
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -98dBm (2), 63771915</name>
+<LineString>
+<coordinates>
+73.72806800,18.54166270
+73.72806690,18.54163420
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -88dBm (4), 63771915</name>
+<LineString>
+<coordinates>
+73.72806690,18.54163420
+73.72808220,18.54162670
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (4), 63771915</name>
+<LineString>
+<coordinates>
+73.72808220,18.54162670
+73.72803800,18.54166260
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (3), 63771915</name>
+<LineString>
+<coordinates>
+73.72803800,18.54166260
+73.72802640,18.54171660
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -96dBm (4), 63771915</name>
+<LineString>
+<coordinates>
+73.72802640,18.54171660
+73.72800350,18.54173840
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (3), 63771915</name>
+<LineString>
+<coordinates>
+73.72800350,18.54173840
+73.72800640,18.54170660
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (3), 63771915</name>
+<LineString>
+<coordinates>
+73.72800640,18.54170660
+73.72804270,18.54171000
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -106dBm (3), 63771915</name>
+<LineString>
+<coordinates>
+73.72804270,18.54171000
+73.72808590,18.54172400
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -103dBm (3), 63771915</name>
+<LineString>
+<coordinates>
+73.72808590,18.54172400
+73.72813130,18.54169230
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (4), 63771915</name>
+<LineString>
+<coordinates>
+73.72813130,18.54169230
+73.72821770,18.54163400
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -95dBm (4), 63771915</name>
+<LineString>
+<coordinates>
+73.72821770,18.54163400
+73.72827510,18.54160000
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -91dBm (4), 63771915</name>
+<LineString>
+<coordinates>
+73.72827510,18.54160000
+73.72833000,18.54156660
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -93dBm (4), 63771915</name>
+<LineString>
+<coordinates>
+73.72833000,18.54156660
+73.72838610,18.54155600
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -98dBm (4), 63771915</name>
+<LineString>
+<coordinates>
+73.72838610,18.54155600
+73.72843420,18.54153420
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (3), 63771915</name>
+<LineString>
+<coordinates>
+73.72843420,18.54153420
+73.72848890,18.54151740
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -97dBm (4), 14135819</name>
+<LineString>
+<coordinates>
+73.72848890,18.54151740
+73.72851240,18.54146080
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -98dBm (4), 14135819</name>
+<LineString>
+<coordinates>
+73.72851240,18.54146080
+73.72850900,18.54139470
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -99dBm (3), 14135819</name>
+<LineString>
+<coordinates>
+73.72850900,18.54139470
+73.72851550,18.54133380
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -101dBm (3), 14135819</name>
+<LineString>
+<coordinates>
+73.72851550,18.54133380
+73.72852250,18.54133770
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -99dBm (2), 14135819</name>
+<LineString>
+<coordinates>
+73.72852250,18.54133770
+73.72851860,18.54135120
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -99dBm (2), 14135819</name>
+<LineString>
+<coordinates>
+73.72851860,18.54135120
+73.72851650,18.54135320
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff9b00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -91dBm (3), 14135819</name>
+<LineString>
+<coordinates>
+73.72851650,18.54135320
+73.72851390,18.54132710
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (1), 14135819</name>
+<LineString>
+<coordinates>
+73.72851390,18.54132710
+73.72850580,18.54131660
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -107dBm (1), 14135819</name>
+<LineString>
+<coordinates>
+73.72850580,18.54131660
+73.72848140,18.54125600
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fff0000</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -91dBm (3), 63771405</name>
+<LineString>
+<coordinates>
+73.72848140,18.54125600
+73.72849510,18.54121140
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7fffff00</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+<Placemark>
+<name>LTE, -90dBm (4), 63771405</name>
+<LineString>
+<coordinates>
+73.72849510,18.54121140
+73.72846840,18.54122390
+</coordinates>
+</LineString>
+<Style>
+<LineStyle>
+<color>#7f00a700</color>
+<width>5</width>
+</LineStyle>
+</Style>
+</Placemark>
+</Folder>
+<Folder>
+<name>BTS 2026-02-22 14:37:27</name>
+<description>Cell locations taken by Network Cell Info app (using MLS database)</description>
+</Folder>
+</Document>
+</kml>
