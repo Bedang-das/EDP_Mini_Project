@@ -31,8 +31,8 @@
 
 | Name | Roll No | Program |
 |---|---|---|
-| **Bedang Das** | 25070123031 | B.Tech EnTC — Sem 1, Batch A2 |
-| **Arjit Ujjawal** | 25070123142 | B.Tech EnTC — Sem 1, Batch A2 |
+| **Bedang Das** | 25070123031 | B.Tech EnTC — Sem 2, Batch A2 |
+| **Arjit Ujjawal** | 25070123142 | B.Tech EnTC — Sem 2, Batch A2 |
 
 **Institution:** Symbiosis Institute of Technology (SIT), Pune
 
